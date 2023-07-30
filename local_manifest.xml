@@ -18,7 +18,7 @@
 
  <!-- Vendor Trees -->
   <project path="vendor/xiaomi/merlinx" name="android_vendor_xiaomi_merlinx" remote="dev" revision="lineage-20"/>
-  <project path="vendor/xiaomi/mt6768-ims" name="android_vendor_xiaomi_mt6768-common" remote="dev" revision="lineage-20"/>
+  <project path="vendor/xiaomi/mt6768-common" name="android_vendor_xiaomi_mt6768-common" remote="dev" revision="lineage-20"/>
   
  <!-- Extras -->
   <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="dev" revision="lineage-20"/>
